@@ -33,6 +33,12 @@ I'm a Software Developer bringing amazing User Interfaces to life and delivering
 
 [![Henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henryoncode)](https://github.com/anuraghazra/github-readme-stats)
 
+#
+
+### 📊 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henryikenna&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--#-->
 
 <!--<details>
